@@ -1,0 +1,21 @@
+name: just_di
+description: "Lightweight, framework-agnostic dependency injection for Dart with scoped containers."
+version: 1.0.0
+homepage: https://github.com/just-unknown-dev/just-di
+repository: https://github.com/just-unknown-dev/just-di
+issue_tracker: https://github.com/just-unknown-dev/just-di/issues
+
+environment:
+  sdk: ^3.11.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
